@@ -11,4 +11,4 @@ The testing and subsequent migration of the projects smart contract was done usi
 *Smart contract written in Solidity  
 *DApp UI built using HTML, Javascript (JQuery, Web3.js), & CSS  
 
-© Aalok Borkar
+© Cryptotopstar
